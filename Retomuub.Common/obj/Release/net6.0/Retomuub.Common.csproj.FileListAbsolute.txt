@@ -1,0 +1,12 @@
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\bin\Release\net6.0\Retomuub.Common.deps.json
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\bin\Release\net6.0\Retomuub.Common.dll
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\bin\Release\net6.0\Retomuub.Common.pdb
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.csproj.AssemblyReference.cache
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.AssemblyInfoInputs.cache
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.AssemblyInfo.cs
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.csproj.CoreCompileInputs.cache
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.dll
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\refint\Retomuub.Common.dll
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\Retomuub.Common.pdb
+C:\Users\baloc\Downloads\Retos6\Retomuub.Common\obj\Release\net6.0\ref\Retomuub.Common.dll

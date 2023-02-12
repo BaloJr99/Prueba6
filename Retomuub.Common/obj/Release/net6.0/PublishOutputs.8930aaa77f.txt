@@ -1,0 +1,3 @@
+C:\Users\baloc\Downloads\Retos6\release\Retomuub.Common.dll
+C:\Users\baloc\Downloads\Retos6\release\Retomuub.Common.deps.json
+C:\Users\baloc\Downloads\Retos6\release\Retomuub.Common.pdb
